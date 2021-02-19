@@ -3,8 +3,8 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Full-stack, React-Native, devOps
-- ⚡ Fun fact: I would like to work with microservices
+- 🥅 2021 Goals: Full-(MERN)stack, React-Native, basic-devOps
+- ⚡ Fun fact: I would like to work with microservice developments
 
 ### Connect with me:
 
@@ -38,7 +38,7 @@
 
 <br />
 <br />
-<img width="550px" alt="Mahabubdev Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mahabubdev&show_icons=true"/>
+<img width="500px" alt="Mahabubdev Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mahabubdev&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubdev&card_width=500)](https://github.com/mahabubdev/)
 
