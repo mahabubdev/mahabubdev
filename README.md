@@ -2,9 +2,9 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Full-(MERN)stack, React-Native, basic-devOps
-- ⚡ Fun fact: I would like to work with microservice developments
+- 🌱 I’m currently learning everything 🤣. Frontend to Server-side with Databases.
+- 🥅 2021 Goals: Full-(MERN)stack developments, React-Native/Expo, basic-devOps,CICD etc.
+- ⚡ Fun fact: I getting ready for work as a full-stack developer.
 
 ### Connect with me:
 
