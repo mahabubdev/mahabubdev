@@ -40,7 +40,7 @@
 <br />
 <img width="500px" alt="Mahabubdev Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mahabubdev&show_icons=true"/>
 
-<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubdev&card_width=500)](https://github.com/mahabubdev/) -->
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubdev&card_width=500)](https://github.com/mahabubdev/)
 
 
 [programming]: https://web.programming-hero.com/
