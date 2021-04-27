@@ -3,8 +3,8 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
 - 🌱 I’m currently learning everything 🤣. Frontend to Server-side with Databases.
-- 🥅 2021 Goals: Full-stack development, basic.devOps, MERN+GraphQL & React-Native/Expo-cli etc.
-- ⚡ Fun fact: I would like to work as a full-time/part-time web developer.
+- 🥅 2021 Goals: Full-stack development, basic-devOps, MERN+GraphQL & React-Native/Expo-cli etc.
+- ⚡ Fun fact: I also know Python programming as a beginner
 
 ### Connect with me:
 
