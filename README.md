@@ -1,6 +1,6 @@
 ### Hi there, I'm  [Mahabub][website] 👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## JavaScript & Python (beginner) programmer.
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
 - 🌱 I’m currently learning MERN stack with SQLs too.
 - 🥅 2021 Goals: Full-stack development, basic-devOps, MERN+GraphQL & React-Native/Expo-cli etc.
