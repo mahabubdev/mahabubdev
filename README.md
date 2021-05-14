@@ -4,7 +4,7 @@
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
 - 🌱 I’m currently learning MERN stack with SQLs too.
 - 🥅 2021 Goals: Full-stack development, basic-devOps, MERN+GraphQL & React-Native/Expo-cli etc.
-- ⚡ Fun fact: I also know Python programming as a (very) beginner
+- ⚡ Fun fact: I also know Python programming as a beginner
 
 ### Connect with me:
 
