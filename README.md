@@ -1,16 +1,16 @@
 ### Hi there, I'm  [Mahabub][website] 👋
 
-## JavaScript & Python (beginner) programmer.
+## Junior Full-stack developer | JavaScript | Python | C/C++
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
-- 🌱 I’m currently learning MERN stack with SQLs too.
-- 🥅 2021 Goals: Full-stack development, basic-devOps, MERN+GraphQL & React-Native/Expo-cli etc.
-- ⚡ Fun fact: I also know Python programming as a beginner
+- 🌱 I’m a student of B.Sc. in CSE right now. (available for part-time)
+- 🥅 2021 Goals: 
+- ⚡ Fun fact: I already know the very fundamentals of programming like C, Python, JS, etc.
 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahabub2000/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/mahabub6333) 
-<!-- [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@solaimanshadin)  -->
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://mahabubdev.medium.com/) 
 <!-- [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10425732/solaiman-shadin) -->
 
 <br />
@@ -36,7 +36,7 @@
 
 <br />
  
-[@mahabubdev__discord_server](https://discord.gg/yhTkDZ76Pz)
+<!-- [@mahabubdev__discord_server](https://discord.gg/yhTkDZ76Pz) -->
 
 <br />
 <br />
