@@ -2,7 +2,7 @@
 
 ## Junior Full-stack developer | JavaScript | Python | C/C++
 <!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
-- 🌱 I’m a student of B.Sc. in CSE right now. (available for part-time or flexible hours[full-time or freelance])
+- 🌱 I’m a student of B.Sc. in CSE right now. (available for part-time or flexible hours <full-time or freelance>)
 - 🥅 2021 Goals: Mastering in scrum(JIRA), TypeScript, JEST ~ TDD, React-Native, NodeJS/Python for backend, etc.
 - ⚡ Focused on: Data Structures & Algorithms, C/C++, Docker, Kubernetes, Microservices architechture, etc. 
 
